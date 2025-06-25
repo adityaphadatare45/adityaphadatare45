@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityaphadatare45
 - 👀 I’m interested in the Tech world
-- 🌱 I’m currently learning Android development
+- 🌱 Currently building DevTools
   
 
 <!---
