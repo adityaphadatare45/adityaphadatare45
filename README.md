@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @adityaphadatare45
 - 👀 I’m interested in the Tech world
 - 🌱 Currently building DevTools
+- The Dev who sucks at design!
   
 
 <!---
